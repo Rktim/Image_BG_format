@@ -59,4 +59,4 @@ if uploaded_file is not None:
                 file_name=f"{custom_filename}.{new_format.lower()}",
                 mime=f"image/{new_format.lower()}"
             )
-st.info("Hope you find this tool useful! 🚀 If you like it, consider sharing it with your friends. \n\n💡 Created with ❤️ by [Raktim](https://github.com/Rktim)")
+st.markdown("Hope you find this tool useful! 🚀 If you like it, consider sharing it with your friends. \n\n💡 Created with ❤️ by [Raktim](https://github.com/Rktim)")
