@@ -83,7 +83,7 @@ Feel free to fork this repo and contribute improvements! If you encounter any is
 
 ## 📜 License
 
-This project is licensed under the[LICENSE](LICENSE). You are free to modify and distribute it as per the terms of the license.
+This project is licensed under the [LICENSE](LICENSE). You are free to modify and distribute it as per the terms of the license.
 
 ---
 
