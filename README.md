@@ -10,7 +10,8 @@ This is a simple yet powerful web-based tool that allows users to:
 
 Built with **Streamlit** and **Rembg**, this app provides an intuitive interface for seamless image processing. 🎨
 
-## 🔗 Try It Live
+🚀 **Live Demo:** [![Try It](https://img.shields.io/badge/BG&Format%20Here-blue?style=for-the-badge)]([https://bgandformat.streamlit.app/])
+
 
 
 
