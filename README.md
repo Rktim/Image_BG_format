@@ -83,8 +83,8 @@ Feel free to fork this repo and contribute improvements! If you encounter any is
 
 ## 📜 License
 
-This project is licensed under the MIT License. You are free to modify and distribute it as per the terms of the license.
+This project is licensed under the MIT License (!LICENSE.md). You are free to modify and distribute it as per the terms of the license.
 
 ---
 
-**💡 Created with ❤️ by Raktim **
+💡 Created with ❤️ by Raktim 
